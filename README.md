@@ -40,8 +40,8 @@ Plot graph and find the mse value.
 ## PROGRAM
 
 ```python
-# Developed By:Ganapathi Venkatesh
-# Register Number:212220230018
+# Developed By:SARVESHKARAN VK
+# Register Number:212221230089
 
 
 import numpy as np
